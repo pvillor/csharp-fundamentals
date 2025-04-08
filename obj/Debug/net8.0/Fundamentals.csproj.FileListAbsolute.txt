@@ -1,0 +1,14 @@
+C:\Users\paulo.guerra\Documents\rocketseat\challenges\csharp\Fundamentals\bin\Debug\net8.0\Fundamentals.exe
+C:\Users\paulo.guerra\Documents\rocketseat\challenges\csharp\Fundamentals\bin\Debug\net8.0\Fundamentals.deps.json
+C:\Users\paulo.guerra\Documents\rocketseat\challenges\csharp\Fundamentals\bin\Debug\net8.0\Fundamentals.runtimeconfig.json
+C:\Users\paulo.guerra\Documents\rocketseat\challenges\csharp\Fundamentals\bin\Debug\net8.0\Fundamentals.dll
+C:\Users\paulo.guerra\Documents\rocketseat\challenges\csharp\Fundamentals\bin\Debug\net8.0\Fundamentals.pdb
+C:\Users\paulo.guerra\Documents\rocketseat\challenges\csharp\Fundamentals\obj\Debug\net8.0\Fundamentals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulo.guerra\Documents\rocketseat\challenges\csharp\Fundamentals\obj\Debug\net8.0\Fundamentals.AssemblyInfoInputs.cache
+C:\Users\paulo.guerra\Documents\rocketseat\challenges\csharp\Fundamentals\obj\Debug\net8.0\Fundamentals.AssemblyInfo.cs
+C:\Users\paulo.guerra\Documents\rocketseat\challenges\csharp\Fundamentals\obj\Debug\net8.0\Fundamentals.csproj.CoreCompileInputs.cache
+C:\Users\paulo.guerra\Documents\rocketseat\challenges\csharp\Fundamentals\obj\Debug\net8.0\Fundamentals.dll
+C:\Users\paulo.guerra\Documents\rocketseat\challenges\csharp\Fundamentals\obj\Debug\net8.0\refint\Fundamentals.dll
+C:\Users\paulo.guerra\Documents\rocketseat\challenges\csharp\Fundamentals\obj\Debug\net8.0\Fundamentals.pdb
+C:\Users\paulo.guerra\Documents\rocketseat\challenges\csharp\Fundamentals\obj\Debug\net8.0\Fundamentals.genruntimeconfig.cache
+C:\Users\paulo.guerra\Documents\rocketseat\challenges\csharp\Fundamentals\obj\Debug\net8.0\ref\Fundamentals.dll
